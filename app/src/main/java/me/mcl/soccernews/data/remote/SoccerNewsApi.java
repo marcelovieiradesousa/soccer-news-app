@@ -1,4 +1,4 @@
-package me.mcl.soccernews.data;
+package me.mcl.soccernews.data.remote;
 
 import java.util.List;
 

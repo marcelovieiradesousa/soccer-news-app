@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586230460731",
+    "project_id": "soccer-female-news",
+    "storage_bucket": "soccer-female-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586230460731:android:2efb5f424112531ec8471e",
+        "android_client_info": {
+          "package_name": "me.mcl.soccernews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586230460731-djt7t2ms4c80vkg3vg0qrt6dn7ui2ms6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkf0VwmAqSvnZzVSjU7qXs1V0J90XrScs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586230460731-djt7t2ms4c80vkg3vg0qrt6dn7ui2ms6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
